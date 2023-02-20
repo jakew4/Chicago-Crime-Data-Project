@@ -11,7 +11,7 @@
 * Prepared data for analysis by combining individual years of crime data into one dataframe.
 * Prepared a datetime index to make accessing time-related data more convenient.
 * Answered reporter questions by creating various visuals to aid in explanations. 
-* Created interactive Tableau dashboard presentation to focus on one particular year's crime data. 
+* Created interactive Tableau dashboard presentation with filters to focus on one particular year or one particular district's crime data.
 
 # Results: 
 
@@ -20,8 +20,9 @@
 
 
 
-## Tableau Dashboard - 2020 Chicago Crime
-![projectDashboard](https://user-images.githubusercontent.com/112730629/219500614-0a12cb39-3a40-470b-b329-9acc152587ad.png)
+## Tableau Dashboard - Chicago Crime Data
+![Screen Shot 2023-02-20 at 2 27 31 PM](https://user-images.githubusercontent.com/112730629/220207557-27fcd4c8-0f9e-422d-b589-cb472633280e.png)
+
 
 
 
