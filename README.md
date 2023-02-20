@@ -13,10 +13,14 @@
 * Answered reporter questions by creating various visuals to aid in explanations. 
 * Created interactive Tableau dashboard presentation to focus on one particular year's crime data. 
 
+# Results: 
 
 
 
-# Tableau Dashboard - 2020 Chicago Crime
+
+
+
+## Tableau Dashboard - 2020 Chicago Crime
 ![projectDashboard](https://user-images.githubusercontent.com/112730629/219500614-0a12cb39-3a40-470b-b329-9acc152587ad.png)
 
 
