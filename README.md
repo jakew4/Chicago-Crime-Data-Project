@@ -7,6 +7,27 @@
 
 # Business Problem: Analyze crime data and answer important questions about crime in Chicago.
 
+## Data Dictionary: 
+
+Column Name | Description
+---|---
+ID | Unique identifier for the record.
+Date | Date when the incident occurred
+Primary Type | The primary description of the IUCR code.
+Description | The secondary description of the IUCR code, a subcategory of the primary description.
+Location Description | Description of the location where the incident occurred.
+Arrest | (T/F) Indicates whether an arrest was made. 
+Domestic | Indicates whether the incident was domestic-related
+Beat | Indicates the beat where the incident occurred. A beat is the smallest police geographic area
+District | Indicates the police district where the incident occurred. 
+Ward | The ward (City Council district) where the incident occurred
+Latitude | The latitude of the location where the incident occurred
+Longitude | The longitude of the location where the incident occurred
+
+
+### Data sourced from: 
+* City of Chicago Data Portal - https://data.cityofchicago.org/
+
 # Methods: 
 * Prepared data for analysis by combining individual years of crime data into one dataframe.
 * Prepared a datetime index to make accessing time-related data more convenient.
