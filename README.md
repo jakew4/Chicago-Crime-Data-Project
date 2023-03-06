@@ -37,22 +37,23 @@ Longitude | The longitude of the location where the incident occurred
 # Results: 
 
 ### Total Crime Over Time
-![totalCrimeOverTime](https://user-images.githubusercontent.com/112730629/223280820-de769c47-c4bc-45cf-bbd5-bd418451be94.jpeg)
+![totalCrimeOverTime](https://user-images.githubusercontent.com/112730629/223281925-d871e429-8255-442b-a591-3417d8c4c511.jpeg)
 * Crime has decreased significantly from 2001-2023.
 * Annual crime numbers have decreased from roughly 500K in 2002 to just over 200K in 2020.
 
 
 ### Crimes by District No.
-![crimesByDistrict](https://user-images.githubusercontent.com/112730629/223277540-e0ef00ce-9432-4a80-b596-0139e87e0a0e.jpeg)
+![crimesByDistrict](https://user-images.githubusercontent.com/112730629/223281787-b05275a2-e4b1-4769-8d48-4064fc41d1d1.jpeg)
+
 * District 8 has the most crime incidents from 2001-2023. 
 * District 21 has histrocially had the least crime. 
 
 ### Crimes by Month
-![crimesByMonth](https://user-images.githubusercontent.com/112730629/223279430-5dd97d27-d594-4706-8868-154727780966.jpeg)
+![crimesByMonth](https://user-images.githubusercontent.com/112730629/223282534-c433e716-c4ad-41fa-997c-bf703679c300.jpeg)
 * Peak summer months seem to have the highest frequency of crimes (July, August)
 
 ### Types of Crime Over Time
-![crimesOverTime](https://user-images.githubusercontent.com/112730629/223279625-83eae729-bcc8-4eb3-8888-821bc59c2ded.jpeg)
+![crimeTypesOverTime](https://user-images.githubusercontent.com/112730629/223282038-e1e1efa8-14e1-4901-8521-ba657e8d7f35.jpeg)
 * Most types of crime have decreased over the years.
 * There are a few outliers (crimes that have increased slightly over time) but the magnitude of their increases has not been very high compared to the amount crimes have decreased over time. 
 
@@ -63,13 +64,12 @@ Longitude | The longitude of the location where the incident occurred
 
 
 
-
-
-
 ## Tableau Dashboard - Chicago Crime Data
 ![Screen Shot 2023-02-20 at 2 27 31 PM](https://user-images.githubusercontent.com/112730629/220207557-27fcd4c8-0f9e-422d-b589-cb472633280e.png)
 
 
-
-
 * Link to full Tableau Dashboard: https://public.tableau.com/app/profile/jacob.wang/viz/ProjectDashboard_16764922197350/MainDashboard?publish=yes
+
+
+# Recommendations to stakeholder: 
+* 
