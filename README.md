@@ -31,10 +31,35 @@ Longitude | The longitude of the location where the incident occurred
 # Methods: 
 * Prepared data for analysis by combining individual years of crime data into one dataframe.
 * Prepared a datetime index in order to perform time series analysis on crime data.
-* Answered reporter questions by creating various visuals to aid in explanations. 
+* Answered various reporter questions by creating various visuals to aid in explanations. 
 * Created interactive Tableau dashboard presentation with filters to focus on one particular year or one particular district's crime data.
 
 # Results: 
+
+### Total Crime Over Time
+![totalCrimeOverTime](https://user-images.githubusercontent.com/112730629/223280820-de769c47-c4bc-45cf-bbd5-bd418451be94.jpeg)
+* Crime has decreased significantly from 2001-2023.
+* Annual crime numbers have decreased from roughly 500K in 2002 to just over 200K in 2020.
+
+
+### Crimes by District No.
+![crimesByDistrict](https://user-images.githubusercontent.com/112730629/223277540-e0ef00ce-9432-4a80-b596-0139e87e0a0e.jpeg)
+* District 8 has the most crime incidents from 2001-2023. 
+* District 21 has histrocially had the least crime. 
+
+### Crimes by Month
+![crimesByMonth](https://user-images.githubusercontent.com/112730629/223279430-5dd97d27-d594-4706-8868-154727780966.jpeg)
+* Peak summer months seem to have the highest frequency of crimes (July, August)
+
+### Types of Crime Over Time
+![crimesOverTime](https://user-images.githubusercontent.com/112730629/223279625-83eae729-bcc8-4eb3-8888-821bc59c2ded.jpeg)
+* Most types of crime have decreased over the years.
+* There are a few outliers (crimes that have increased slightly over time) but the magnitude of their increases has not been very high compared to the amount crimes have decreased over time. 
+
+### Crimes on Holidays
+![crimesHolidays](https://user-images.githubusercontent.com/112730629/223281162-2e6c253f-f4d5-41f4-8266-c20c49b0d03b.png)
+* New Years Day has the highest number of crimes amongst holidays
+* July 4th also sees large amounts of crime committed each year
 
 
 
