@@ -30,7 +30,7 @@ Longitude | The longitude of the location where the incident occurred
 
 # Methods: 
 * Prepared data for analysis by combining individual years of crime data into one dataframe.
-* Prepared a datetime index to make accessing time-related data more convenient.
+* Prepared a datetime index in order to perform time series analysis on crime data.
 * Answered reporter questions by creating various visuals to aid in explanations. 
 * Created interactive Tableau dashboard presentation with filters to focus on one particular year or one particular district's crime data.
 
