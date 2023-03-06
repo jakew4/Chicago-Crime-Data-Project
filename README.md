@@ -60,7 +60,7 @@ Longitude | The longitude of the location where the incident occurred
 * There are a few outliers (crimes that have increased slightly over time) but the magnitude of their increases has not been very high compared to the amount crimes have decreased over time. 
 
 ### Crimes on Holidays
-![crimesHolidays](https://user-images.githubusercontent.com/112730629/223281162-2e6c253f-f4d5-41f4-8266-c20c49b0d03b.png)
+![crimesHolidays](https://user-images.githubusercontent.com/112730629/223283790-0723755b-95ed-4652-9055-0a9deb4cd237.png)
 * New Years Day has the highest number of crimes amongst holidays
 * July 4th also sees large amounts of crime committed each year
 
