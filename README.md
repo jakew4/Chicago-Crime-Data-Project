@@ -38,7 +38,8 @@ Longitude | The longitude of the location where the incident occurred
 # Results: 
 
 ### Total Crime Over Time
-![totalCrimeOverTime](https://user-images.githubusercontent.com/112730629/223281925-d871e429-8255-442b-a591-3417d8c4c511.jpeg)
+![totalCrimeOverTime](https://user-images.githubusercontent.com/112730629/223283878-61b02df5-f5aa-4450-bba3-5d9b5f494e8e.jpeg)
+
 * Crime has decreased significantly from 2001-2023.
 * Annual crime numbers have decreased from roughly 500K in 2002 to just over 200K in 2020.
 
