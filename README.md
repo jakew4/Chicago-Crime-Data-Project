@@ -52,6 +52,7 @@ Longitude | The longitude of the location where the incident occurred
 ### Crimes by Month
 ![crimesByMonth](https://user-images.githubusercontent.com/112730629/223282534-c433e716-c4ad-41fa-997c-bf703679c300.jpeg)
 * Peak summer months seem to have the highest frequency of crimes (July, August)
+* Peak winter months seem to have the lowest amount of crimes (December, January, February)
 
 ### Types of Crime Over Time
 ![crimeTypesOverTime](https://user-images.githubusercontent.com/112730629/223282038-e1e1efa8-14e1-4901-8521-ba657e8d7f35.jpeg)
