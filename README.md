@@ -66,7 +66,6 @@ Longitude | The longitude of the location where the incident occurred
 * July 4th also sees large amounts of crime committed each year
 
 
-
 ## Tableau Dashboard - Chicago Crime Data
 ![Screen Shot 2023-02-20 at 2 27 31 PM](https://user-images.githubusercontent.com/112730629/220207557-27fcd4c8-0f9e-422d-b589-cb472633280e.png)
 
@@ -75,4 +74,8 @@ Longitude | The longitude of the location where the incident occurred
 
 
 # Recommendations to stakeholder: 
-* 
+* Districts 8, 11, and 25 have above-average crime numbers compared to other districts. 
+  * Finding and addressing the root cause of higher crime rates in these areas would lead to better overall public safety. 
+* Crime is more frequent during the peak summer months and less frequent during the colder winter months. 
+  * Increasing police activity during peak summer months could discourage some potential offenders and may lead to less crime during those months.
+* Large numbers of crimes are committed on holidays, especially New Year's Day and July 4th. Increasing police activity during holidays to address the uptick in crime will lead to better overall public safety. 
